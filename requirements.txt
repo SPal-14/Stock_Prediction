@@ -1,0 +1,9 @@
+streamlit==1.20.0
+numpy==1.22.4
+pandas==1.5.3
+matplotlib==3.7.1
+matplotlib.pyplot==3.10.4
+pandas_datareader.data=0.10.0
+yfinance==0.2.6
+datetime==5.1
+keras.models==2.12.0
